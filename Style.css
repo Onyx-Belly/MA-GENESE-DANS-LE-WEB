@@ -1,0 +1,25 @@
+p{
+text-align: justify;	
+}
+
+body {
+	background-image: url("cv.jpg");
+	border-style: 6px 6px black
+}
+
+h1{
+	border: 3px purple groove; 
+}
+
+h2{
+	border: 3px purple groove; 
+
+}
+
+img{
+	widht: 400px;
+}
+
+body{
+	font-family: Arial black
+}
